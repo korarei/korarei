@@ -5,7 +5,7 @@ I am Korarei. I will write the code necessary to create something.
 ## About me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=korarei&show_icons=true&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=korarei&show_icons=true&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=korarei&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
