@@ -1,3 +1,14 @@
+## Introduction
+
+I am Korarei. I will write the code necessary to create something.
+
+## About me
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=korarei&show_icons=true&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=korarei&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 <!--
 **korarei/korarei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,11 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Korarei's GitHub stats](https://github-readme-stats.vercel.app/api?username=korarei&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korarei&layout=compact)
-
----
-
-2023年あたりからプログラミングの勉強始めました
